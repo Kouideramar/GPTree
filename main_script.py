@@ -87,7 +87,7 @@ print(f"Selected features and their values saved to {output_path}")
 print("Best Individual Tree Structure:")
 print_tree(best_individual)
 
-# --- Evaluate Final Model with 5-Fold CV ---
+# --- Evaluate Final Model with 20-Fold CV ---
 n_folds = 20  # Set number of folds for CV
 cv_rmse_scores = evaluate_final_model(X, y, selected_features, n_folds=n_folds)
 
