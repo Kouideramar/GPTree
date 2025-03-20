@@ -1,7 +1,8 @@
 """
 # ----------  Created by "Mohamed Kouider Amar"    ----------%
 # ----------  Email: kouideramar.mohamed@univ-medea.dz ------%
-# ---- Github: https://github.com/Kouideramar/GPTree.git ----%                               --------%
+# ---- Github: https://github.com/Kouideramar/GPTree.git ----%
+# -- Paper: https://doi.org/10.1016/j.compbiomed.2025.109988-%
 # -----------------------------------------------------------%
 
 """
